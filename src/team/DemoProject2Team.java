@@ -6,6 +6,7 @@ public class DemoProject2Team {
 		
 		System.out.println("Test 1");
 		
+		System.out.println("TEST");
 		
 		
 		
